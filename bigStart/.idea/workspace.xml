@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61467def-967a-4212-a67a-85bd72f6c7b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../app1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app1/.idea/app1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/middleware/verifyToken.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/LoadingSpinner/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Auth/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Home/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/authStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/utils/date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/components/Form/Signin/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/components/Form/Signup/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/components/Form/assets/login page ssign up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/components/Form/assets/login.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/components/Form/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/pages/Exams/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/pages/Home/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/pages/Learners/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/pages/Statistics/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/pages/Tasks/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/store/hooks.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/store/slices/Users/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hakaton/src/store/store.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0fc48030-43b3-41de-9c09-fd1795708320" />
+        <option name="url" value="git@github.com:Sard98/front-end.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2kuGz5g7BZmX2jeyorJCfpk9RCg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/javlon/Sardor/bigStart&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61467def-967a-4212-a67a-85bd72f6c7b4" name="Changes" comment="" />
+      <created>1724126307257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724126307257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
